@@ -3,3 +3,4 @@
 26 Nov 2023 - ransom note <br>
 26 Nov 2023 - word count <br>
 26 Nov 2023 - anagram <br>
+26 Nov 2023 - happy number <br>
