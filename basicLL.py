@@ -10,7 +10,7 @@ class Node:
     
 class singly_linked_list:
     def __init__(self):
-        # Createe an empty list
+        # Create an empty list
         self.head = None
         self.tail = None
         self.count = 0
