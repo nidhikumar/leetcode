@@ -10,3 +10,4 @@
 15 Dec 2023 - happy number <br>
 15 Dec 2023 - product of array except itself <br>
 15 Dec 2023 - same tree or not <br>
+15 Dec 2023 - square root of a number <br>
