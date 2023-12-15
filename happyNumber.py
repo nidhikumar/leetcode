@@ -11,11 +11,9 @@ def sum(n):
     sum = 0
     while(n != 0):
         temp = n%10
-        print("temp = ",temp)
         sum = sum + (temp*temp)
         n = n//10
     print("sum = ",sum)
-    
     return sum
 
 def isHappy(n):
