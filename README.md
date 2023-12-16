@@ -12,3 +12,4 @@
 15 Dec 2023 - same tree or not <br>
 15 Dec 2023 - square root of a number <br>
 15 Dec 2023 - missing number in an array <br>
+15 Dec 2023 - merge 2 sorted linked list <br>
