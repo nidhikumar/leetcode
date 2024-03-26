@@ -28,3 +28,4 @@
 05 Mar 2024 - Count 1s in a binary <br>
 06 Mar 2024 - Fibonacci DP <br>
 25 Mar 2024 - Number smaller than itself in an array <br>
+26 Mar 2024 - Interpret command <br>
