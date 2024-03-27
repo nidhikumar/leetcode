@@ -29,3 +29,4 @@
 06 Mar 2024 - Fibonacci DP <br>
 25 Mar 2024 - Number smaller than itself in an array <br>
 26 Mar 2024 - Interpret command <br>
+27 Mar 2024 - Pascal's Triangle <br>
