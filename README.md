@@ -20,7 +20,7 @@
 17 Feb 2024 - top k frequent elements <br>
 18 Feb 2024 - valid palindrome <br>
 04 Mar 2024 - defanging an IP Address <br>
-04 Mar 2024 - Final Value of Variable After Performing Operations <br>
+04 Mar 2024 - final Value of Variable After Performing Operations <br>
 04 Mar 2024 - Jewels and Stones <br>
 04 Mar 2024 - Find words containing <br>
 04 Mar 2024 - Build array from permutation <br>
