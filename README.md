@@ -32,3 +32,4 @@
 27 Mar 2024 - Pascal's Triangle <br>
 02 Apr 2024 - Climbing stairs <br>
 10 Apr 2024 - Balanced Binary Tree <br>
+17 Nov 2024 - Insertion Sort <br>
