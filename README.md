@@ -35,4 +35,4 @@
 17 Nov 2024 - Insertion Sort <br>
 18 Nov 2024 - Selection Sort <br>
 19 Nov 2024 - Bubble Sort <br>
-20 Nov 2024 - Merge Sorr
+21 Nov 2024 - Three Sums <br>
